@@ -19,6 +19,6 @@ Welcome to my site. [go to Youtube](https://youtube.com)
 
 **Bold** and _Italic_ and `Code` text
 
-#Image of something super cute
+# Image of something super cute
 
 ![Picture of a cute kitten](https://i.ytimg.com/vi/SBjCQX7Lh2Q/maxresdefault.jpg)
