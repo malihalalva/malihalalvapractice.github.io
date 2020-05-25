@@ -22,3 +22,9 @@ Welcome to my site. [go to Youtube](https://youtube.com)
 # Image of something super cute
 
 ![Picture of a cute kitten](https://i.ytimg.com/vi/SBjCQX7Lh2Q/maxresdefault.jpg)
+
+'''elm
+
+x="y"
+tyep Fruit = banana | orange | berry
+'''
