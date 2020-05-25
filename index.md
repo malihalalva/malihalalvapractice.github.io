@@ -5,9 +5,9 @@
 2.strawberry
 3.Banana
 
-### List of things
-- yes
-- he
+### Shows I am currently watching
+- Crash Landing
+- Extracirricular
 - low
 
 ### Markdown
