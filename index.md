@@ -1,5 +1,10 @@
 ## Welcome to My Page
 
+Welcome to my site. [go to Youtube](https://youtube.com)
+
+[read more about me](about)
+
+
 ##my favourite fruits
 1.blueberry
 2.strawberry
