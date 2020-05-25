@@ -5,7 +5,7 @@ Welcome to my site. [go to Youtube](https://youtube.com)
 [read more about me](about)
 
 
-##my favourite fruits
+## my favourite fruits
 1.blueberry
 2.strawberry
 3.Banana
@@ -25,6 +25,6 @@ Welcome to my site. [go to Youtube](https://youtube.com)
 
 '''elm
 
-x="y"
-tyep Fruit = banana | orange | berry
+x = "y"
+type Fruit = banana | orange | berry
 '''
